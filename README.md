@@ -34,3 +34,7 @@ Results are the values printed in the saved notebook outputs, on each notebook's
 ## Data
 
 Small datasets are included next to their notebooks. CIFAR-10 is downloaded automatically by `torchvision`. The IMDB review dataset (64 MB) is not included; download *IMDB Dataset of 50K Movie Reviews* from Kaggle into `Deep Learning/RNN/`.
+
+---
+
+More of my work: [anirudhverma33.github.io/portfolio](https://anirudhverma33.github.io/portfolio/)
