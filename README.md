@@ -37,4 +37,4 @@ Small datasets are included next to their notebooks. CIFAR-10 is downloaded auto
 
 ---
 
-More of my work: [anirudhverma33.github.io/portfolio](https://anirudhverma33.github.io/portfolio/)
+More of my work: [anirudhverma33.github.io](https://anirudhverma33.github.io/)
